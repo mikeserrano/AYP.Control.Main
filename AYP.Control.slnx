@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/API/" />
+  <Folder Name="/COMMON/" />
+  <Folder Name="/DATA/">
+    <Project Path="Domain/Domain.csproj" />
+  </Folder>
+  <Folder Name="/TELEMETRY/" />
+  <Folder Name="/WEB/" />
+</Solution>
