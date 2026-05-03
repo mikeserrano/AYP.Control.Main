@@ -2,7 +2,7 @@
 namespace Domain;
 
 public class Pais
-    {
+{
     [Key]
     public int MyProperty { get; set; }
 

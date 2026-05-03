@@ -1,7 +1,9 @@
-﻿namespace Domain
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Domain;
+
+public class Distritos
 {
-    public class Distritos
-    {
-        public int Id { get; set; } = 1
-    }
+    [Key]
+    public int Id { get; set; } = 1;
 }
